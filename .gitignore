@@ -1,0 +1,7 @@
+BlueMonkeyAndroid/obj/
+BlueMonkeyiOS/obj/
+packages/
+SurveyMonkeyAndroidBindings/obj/
+SurveyMonkeyiOSBindings/obj/
+BlueMonkeyAndroid/Resources/Resource.designer.cs
+.vs/
