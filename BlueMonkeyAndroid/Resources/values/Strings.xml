@@ -1,11 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="hello">Take Survey</string>
-	<string name="app_name">BlueMonkey Android</string>
+  
+  <string name="action_settings">Settings</string>
 
-    <string name="application_name">SurveyMonkeyAndroidSDK_Example</string>
-    <string name="promoter_prompt">We\'re glad you love our app! Now please rate us in the app store!</string>
-    <string name="detractor_prompt">We\'re sorry you\'re experiencing problems with our app, we promise to address the issues you experienced as quickly as possible.</string>
-    <string name="thanks_prompt">Thanks for responding to our survey!</string>
-    <string name="error_prompt">SM SDK Error - see logs</string>	
+  <string name="hello">Take Survey</string>
+  <string name="app_name">BlueMonkey Android</string>
+
+  <string name="application_name">SurveyMonkeyAndroidSDK_Example</string>
+  <string name="promoter_prompt">We\'re glad you love our app! Now please rate us in the app store!</string>
+  <string name="detractor_prompt">We\'re sorry you\'re experiencing problems with our app, we promise to address the issues you experienced as quickly as possible.</string>
+  <string name="thanks_prompt">Thanks for responding to our survey!</string>
+  <string name="error_prompt">SM SDK Error - see logs</string>
+
 </resources>
