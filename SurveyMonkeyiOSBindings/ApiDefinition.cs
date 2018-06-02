@@ -1,8 +1,10 @@
 ﻿using System;
 
-using ObjCRuntime;
-using Foundation;
 using UIKit;
+using Foundation;
+using ObjCRuntime;
+using CoreGraphics;
+using SurveyMonkeyiOSBindings;
 
 namespace SurveyMonkeyiOSBindings
 {
@@ -62,7 +64,6 @@ namespace SurveyMonkeyiOSBindings
 	//
 	// For more information, see http://docs.xamarin.com/ios/advanced_topics/binding_objective-c_types
 	//
-
 
 
 	// @protocol SMJSONSerializableProtocol <NSObject>
@@ -234,8 +235,4 @@ namespace SurveyMonkeyiOSBindings
 	interface SurveyMonkeyiOSSDK
 	{
 	}
-
-
-
 }
-
