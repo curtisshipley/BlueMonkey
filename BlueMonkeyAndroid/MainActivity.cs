@@ -8,6 +8,7 @@ using Android.Views;
 using Org.Json;
 using Android.Util;
 using Com.Surveymonkey.Surveymonkeyandroidsdk;
+using Com.Surveymonkey.Surveymonkeyandroidsdk.Utils;
 
 namespace BlueMonkeyAndroid
 {
