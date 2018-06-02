@@ -3,6 +3,10 @@ Xamarin iOS and Android Binding Project for Survey Monkey iOS/Android SDKs
 
 This project has binding projects for both iOS and Anroid.
 
+** Update June 2018 Notes:
+1. This does not use the most recent Survey Monkey libraries. It uses the ones originally used from a year ago.
+2. There is a known issue (at the time of this update) with build iOS binding projects with Visual Studio 2017 (Windows) when remotely connecting to a mac. If loaded with Visual Studio Mac it builds properly.
+
 
 ## Android Survey Monkey Binding Project - SurveyMonkeyAndroidBindings
 
